@@ -1,0 +1,16 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+  "python.terminal.activateEnvironment": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.formatting.provider": "black",
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.defaultInterpreterPath": "./venv/bin/python",
+  "python.testing.pytestArgs": ["."],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
+}
