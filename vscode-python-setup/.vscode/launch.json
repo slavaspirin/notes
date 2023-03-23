@@ -6,7 +6,7 @@
       "python": "${workspaceFolder}/venv/bin/python", //python3 -m venv venv
       "request": "launch",
       "program": "${workspaceFolder}/main.py",
-      "console": "integratedTerminal",
+      "console": "internalConsole",
       "justMyCode": true
     }
   ]
